@@ -1,12 +1,14 @@
 # Musical Sorting Visualizer
  Blended coding with music by making algorithm-based sound visualizations.
- 
+ Unique Element: Different sound frequencies are played to represent comparisons, swaps, and correct placements, making the visualization both visual and auditory.
+
 ## Scope
  1. A web application that allows users to visualize different sorting algorithms in real-time. 
  2. An interface that enables users to choose from a variety of sorting algorithms, including bubble sort, selection sort, insertion sort, quicksort, and merge sort. 
  3. A visual representation of the sorting algorithm as it runs on the input array, including the current state of the array, comparisons, and swaps. 
  4. User controls to pause, resume, or reset the sorting process. 
  5. A user-friendly interface with clear instructions and explanations of each sorting algorithm.
+ 6. Unique Element: Different sound frequencies are played to represent comparisons, swaps, and correct placements, making the visualization both visual and auditory.
 
 ## Use Case Diagram
 ![image](https://github.com/user-attachments/assets/3ed35a81-2045-4f4f-aeaf-2db985719953)
